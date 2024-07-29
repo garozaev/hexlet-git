@@ -1,1 +1,1 @@
-Haskell Curry
+Many people like git
